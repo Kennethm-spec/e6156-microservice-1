@@ -7,7 +7,7 @@ class StudentsResource:
     # It is also pretty sloppy code.
     #
 
-    students_file = "resources/students.json" # set the correct path
+    students_file = "resources/students.json" # set the  correct path
         # "/Users/donaldferguson/Dropbox/000-NewProjects/E6156F23/first_microservice/resources/students.json"
 
     def __init__(self):
